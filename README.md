@@ -6,8 +6,8 @@
 - ⚡ Fun fact: I’m a Formula Student team member and an avid badminton player 🏸.
 
 ### 🚀 Skills
-- **Programming Languages:** Python, C, JavaScript
-- **Frameworks & Tools:** Streamlit, Pandas, Next.js, Zod
+- **Programming Languages:** Python, Java, C, JavaScript, Typescript, HTML/CSS
+- **Frameworks & Tools:** Streamlit, Tensorflow, Numpy, Pandas, Matplotlib, React
 - **Hobbies:** Fitness, reading productivity and sci-fi books, and running.
 
 ### 📈 Stats
