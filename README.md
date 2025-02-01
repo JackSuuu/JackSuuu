@@ -3,7 +3,7 @@
 ### 💻 About Me
 - 🔭 I’m currently working on: [EUFS Testing App](https://github.com/your-link-here)
 - 🌱 I’m learning: **Torch Framework**, **React**, and advanced ML techniques.
-- ⚡ Fun fact: I’m a Formula Student team member and an avid badminton player 🏸.
+- ⚡ Fun fact: I’m a Formula Student team member and an avid 🏸 Badminton and 🎾 Tennis player .
 
 ### 🚀 Skills
 - **Programming Languages:** Python, Java, C, JavaScript, Typescript, HTML/CSS
