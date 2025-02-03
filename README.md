@@ -11,8 +11,9 @@
 - **Hobbies:** Fitness, reading productivity and sci-fi books, and running.
 
 ### 📈 Stats
-![Jack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JackSuuu&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JackSuuu&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JackSuuu&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JackSuuu&layout=compact&theme=tokyonight)
+
 
 ---
 
