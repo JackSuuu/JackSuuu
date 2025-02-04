@@ -1,9 +1,10 @@
 # Hi there! 👋 I'm Jack Suuuu
 
 ### 💻 About Me
-- 🔭 I’m currently working on: [EUFS Testing App](https://github.com/your-link-here)
+- 🎓 [2023-Now] Bsc in Computer Science. (UoE)[https://www.ed.ac.uk]
 - 🌱 I’m learning: **Torch Framework**, **React**, and advanced ML techniques.
-- ⚡ Fun fact: I’m a Formula Student team member and an avid 🏸 Badminton and 🎾 Tennis player .
+- ⚡  Fun fact: I’m a Formula Student team member.
+- 💪 Dynamic Core Weight Training / 🏸 Badminton / 🎾 Tennis / LOL / Steam Games
 
 ### 🚀 Skills
 - **Programming Languages:** Python, Java, C, JavaScript, Typescript, HTML/CSS
