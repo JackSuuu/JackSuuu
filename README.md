@@ -4,7 +4,7 @@
 - 🎓 [2023-Now] Bsc in Computer Science. (UoE)[https://www.ed.ac.uk]
 - 🌱 I’m learning: **Torch Framework**, **React**, and advanced ML techniques.
 - ⚡  Fun fact: I’m a Formula Student team member.
-- 💪 Dynamic Core Weight Training / 🏸 Badminton / 🎾 Tennis / Steam Games
+- 💪 Dynamic Core Weight Training / 🏸 Badminton / 🎾 Tennis / 🎮 Steam Games
 
 ### 🚀 Skills
 - **Programming Languages:** Python, Java, C, JavaScript, Typescript, HTML/CSS
