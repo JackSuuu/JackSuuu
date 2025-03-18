@@ -3,7 +3,7 @@
 ### 💻 About Me
 - 🎓 [2023-Now] Bsc in Computer Science. (UoE)[https://www.ed.ac.uk]
 - 🌱 I’m learning: **Torch Framework**, **React**, and advanced ML techniques.
-- ⚡  Fun fact: I’m a Formula Student team member.
+- ⚡  Fun fact: I hate people asking me if I play Basketball(not offend to the sport).
 - 💪 Dynamic Core Weight Training / 🏸 Badminton / 🎾 Tennis / 🎮 Steam Games
 
 ### 🚀 Skills
