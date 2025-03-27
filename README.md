@@ -9,7 +9,7 @@
 ### 🚀 Skills
 - **Programming Languages:** Python, Java, C, JavaScript, Typescript, HTML/CSS
 - **Frameworks & Tools:** Langchain, Tensorflow, Numpy, Pandas, Matplotlib, Streamlit, React
-- **Hobbies:** Fitness, reading productivity and sci-fi books, and running.
+- **Hobbies:** Fitness, reading productivity and sci-fi books(also other genres lol), and running.
 
 ---
 
