@@ -7,7 +7,7 @@
 - 💪 Dynamic Core Weight Training / 🎾 Tennis / 🏸 Badminton /  / 🎮 Steam Games
 
 ### 🚀 Skills
-- **Programming Languages:** Python, Java, C, JavaScript, Typescript, HTML/CSS
+- **Main Programming Languages:** Python, C/C++, Java, JavaScript, Typescript, HTML/CSS
 - **Frameworks & Tools:** Langchain, Tensorflow, Numpy, Pandas, Matplotlib, Streamlit, React
 - **Hobbies:** Fitness, reading productivity and sci-fi books(also other genres lol), and running.
 
