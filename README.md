@@ -2,7 +2,7 @@
 
 ### 💻 About Me
 - 🎓 [2023-Now] Bsc in Computer Science. (UoE)[https://www.ed.ac.uk]
-- 🌱 I’m learning: **Torch Framework**, Parallel/Concurrent Computing, and advanced ML architecture.
+- 🌱 I’m learning: **Torch Framework**, Parallel/Concurrent Computing, and state-of-the-art ML architecture.
 - ⚡  Fun fact: I hate people asking me if I play Basketball(not offend to the sport).
 - 💪 Dynamic Core Weight Training / 🎾 Tennis / 🏸 Badminton /  🎮 Steam Games
 
