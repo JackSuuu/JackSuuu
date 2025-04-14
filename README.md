@@ -1,6 +1,6 @@
 # Greeting 👋 I'm Jack Suuuu
 
-[GitHub Banner](./github_banner.png)
+![GitHub Banner](./github_banner.png)
 
 ### 💻 About Me
 - 🎓 [2023-Now] Bsc in Computer Science. (UoE)[https://www.ed.ac.uk]
