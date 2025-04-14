@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Jack Suuuu
+# Greeting 👋 I'm Jack Suuuu
 
 ### 💻 About Me
 - 🎓 [2023-Now] Bsc in Computer Science. (UoE)[https://www.ed.ac.uk]
