@@ -15,8 +15,8 @@
 
 ---
 
-❤️‍🔥 [Check out my super fancy portfolio website](https://jacksuuu.github.io/jacksuuu-portfolio/) 
+### ❤️‍🔥 [Check out my portfolio website](https://jacksuuu.github.io/jacksuuu-portfolio/) 
 
-🖊️ [You can read my blog here](https://jack-su-blog.vercel.app/)
+### 🖊️ [You can read my blog here](https://jack-su-blog.vercel.app/)
 
-📝 [Check out my repositories](https://github.com/JackSuuu?tab=repositories)
+### 📝 [Check out my repositories](https://github.com/JackSuuu?tab=repositories)
