@@ -1,4 +1,4 @@
-# Greeting 👋 I'm Jack Suuuu
+# 你好 👋 I'm Jack Suuuu
 
 ![GitHub Banner](./github_banner.png)
 
