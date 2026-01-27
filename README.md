@@ -4,8 +4,8 @@
 
 ### 💻 About Me
 - 🎓 [2023-Now] **Bsc in Computer Science**. (UoE)[https://www.ed.ac.uk]
-- 🦾 My research interest: **AI Robotics(RL + Power Dynamics), ML Systems, Operating system**, Parallel / Concurrent Computing(CUDA), Distributed System, and state-of-the-art ML architecture.
-- ⚡  Fun fact: I hate people asking me if I play Basketball(not offend to the sport).
+- 🦾 My research interest: **AI Robotics(RL + Computer Vision/Perception), ML Systems, Operating system**, Parallel / Concurrent Computing(CUDA), Distributed System, and state-of-the-art ML architecture.
+- ⚡ Fun fact: I hate people asking me if I play Basketball (not offend to the sport).
 - 💪 Dynamic Core Weight Training / 🎾 Tennis / 🏸 Badminton /  🎮 Steam Games
 
 ### 🚀 Skills
