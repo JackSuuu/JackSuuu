@@ -10,8 +10,8 @@
 
 ### 🚀 Skills
 - **Main Programming Languages I speak:** Python, C/C++, JavaScript, Typescript, HTML/CSS
-- **Frameworks & Tools:** Pytorch, Tensorflow, Ray, Langchain, Numpy, Pandas, Matplotlib, Streamlit, React & React Native
-- **Hobbies:** Fitness, reading productivity and sci-fi books(also other genres lol), and running.
+- **Frameworks & Tools:** Pytorch, Trition, HuggingFace Transformer, vLLM, SGLang, Tensorflow, Ray, Langchain, Numpy, Pandas, Matplotlib, Streamlit, React & React Native...
+- **Hobbies:** Fitness, reading productivity and sci-fi/crime fictions(also other genres lol), and running.
 
 ---
 
